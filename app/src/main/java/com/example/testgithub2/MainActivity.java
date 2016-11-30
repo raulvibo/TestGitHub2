@@ -10,6 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        String variable = "SEGUNDO CAMBIO";
+        String variable = "TERCER CAMBIO";
     }
 }
